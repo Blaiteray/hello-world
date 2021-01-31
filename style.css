@@ -1,0 +1,19 @@
+div.rec1 {
+	position: fixed;
+	color: black;
+	background-image: linear-gradient(to right ,black, white);
+	border: none;
+	margin: 0px;
+	left: 0px;
+	top: 0px;
+	padding: 12.5vw 50vw;
+}
+.rec2 {
+	position: fixed;
+	color: gray;
+	background-color: gray;
+	border: none;
+	left: 0px;
+	top: 0px;
+	padding: 12.5vw 25vw;
+}
