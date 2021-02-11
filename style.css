@@ -53,3 +53,33 @@ main {
 	background: rgba(10,10,15,0.8);
 	cursor: pointer;
 }
+
+
+
+
+
+
+
+
+
+.logo-out {
+	width: 40vmin;
+	height: 40vmin;
+	border-radius: 50%;
+	background: bisque;
+	box-shadow: 2px 2px 0 6px black;
+	position: absolute;
+	top: 10vmin;
+	left: 10vmin;
+	z-index: 3;
+	display: flex;
+	display: -webkit-flex;
+	justify-content: center;
+}
+.logo-bita {
+	font-size: 40vmin;
+	font-family: sans-serif;
+	position: relative;
+	top: -6vmin;
+	z-index: 3;
+}
